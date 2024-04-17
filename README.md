@@ -26,13 +26,17 @@
     <img align="center" alt="React" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Git" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     <img align="center" alt="MySQL" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+</div>
+
 
 
 
  
 
+<div>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GrazielleNascimento/GrazielleNascimento/output/github-contribution-grid-snake-dark.svg">
+</div>
 
-![snake gif](https://github.com/anacamorims/anacamorims/blob/output/github-contribution-grid-snake.svg)
 
 
 
