@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=204A9E&height=180&section=header&text=Ana+Carolina+Amorim+de+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+![octocat-1713390285520](https://github.com/anacamorims/anacamorims/assets/132526900/413b6626-3997-4f99-be4e-83591ce2cef9)<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=204A9E&height=180&section=header&text=Ana+Carolina+Amorim+de+Souza&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=204A9E&size=35&center=true&vCenter=true&width=1000&lines=<Hello,+World/>;I'm+a+fascinated+by+technology;I+love+developing+&#x2764;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 </a>
 
 
-<img src="https://www.flickr.com/photos/200513902@N04/53662085227/in/dateposted-public/" width="50%" height="auto" frameBorder="0">
+<img src="/img/octocat-1713390285520.png" width="50%" height="auto" frameBorder="0">
 
 
 
