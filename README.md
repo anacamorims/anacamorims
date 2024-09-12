@@ -21,7 +21,7 @@
 
 
 <p align="center">
-  <img src="/img/octocat-1713390285520.png" width="50" height="auto" frameBorder="0">
+  <img src="/img/octocat-1713390285520.png" width="100" height="auto" frameBorder="0">
 </p>
 
 
