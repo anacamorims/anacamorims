@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=204A9E&size=35&center=true&vCenter=true&width=1000&lines=<Hello,+World/>;I'm+a+fascinated+by+technology;I+love+developing+&#x2764;;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+Hi, I'm Ana Carolina
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anacamorims&show_icons=true&count_private=true&hide_border=true&title_color=204A9E&icon_color=204A9E&text_color=c9d1d9&bg_color=0d1117" alt="Ana Carolina Aamorim de Souza stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacamorims&layout=compact&hide_border=true&title_color=204A9E&text_color=204A9E&bg_color=0d1117" />
