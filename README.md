@@ -4,7 +4,7 @@
 
 <h2> Hi, I'm Ana Carolina 👋 </h2>
 
-<p> Curious developer with a passion for technology and innovation. Always looking to learn and share knowledge.</p>
+<p height="20px" > Curious developer with a passion for technology and innovation. Always looking to learn and share knowledge.</p>
 <p> Here you will find projects, solutions and experiments.</p>
 <p> Feel free to explore! 🚀</p>
 
