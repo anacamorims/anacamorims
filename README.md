@@ -4,9 +4,9 @@
 
 <h2> Hi, I'm Ana Carolina 👋 </h2>
 
-<p height="20px" > Curious developer with a passion for technology and innovation. Always looking to learn and share knowledge.</p>
-<p> Here you will find projects, solutions and experiments.</p>
-<p> Feel free to explore! 🚀</p>
+<p height="25px" > Curious developer with a passion for technology and innovation. Always looking to learn and share knowledge.</p>
+<p height="25px" > Here you will find projects, solutions and experiments.</p>
+<p height="25px" > Feel free to explore! 🚀</p>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=anacamorims&show_icons=true&count_private=true&hide_border=true&title_color=204A9E&icon_color=204A9E&text_color=c9d1d9&bg_color=0d1117" alt="Ana Carolina Aamorim de Souza stats" /> 
